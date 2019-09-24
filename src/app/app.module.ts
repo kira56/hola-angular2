@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { ProductoComponent } from './components/producto/producto.component';
 // importando el componente
 
-// ng g components/producto       METODO FACIL
+// ng g c components/producto       METODO FACIL
 
 
 @NgModule({
